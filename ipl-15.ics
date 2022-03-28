@@ -24,7 +24,7 @@ UID:01
 DTSTART;TZID=Asia/Calcutta:20220326T193000
 DTEND;TZID=Asia/Calcutta:20220326T193500
 SUMMARY:CSK vs KKR  #01
-DESCRIPTION:Match #01\nChennai Super Kings Vs Kolkata Knight Riders\nWankhede Stadium
+DESCRIPTION:Match #01\nChennai Super Kings Vs Kolkata Knight Riders\nWankhede Stadium\n Visit us at https://anjane.tech
 LOCATION:Wankhede Stadium
 URL:www.anjanetech.com
 TRANSP:TRANSPARENT
@@ -42,7 +42,7 @@ UID:02
 DTSTART;TZID=Asia/Calcutta:20220327T153000
 DTEND;TZID=Asia/Calcutta:20220327T153500
 SUMMARY:DC vs MI  #02
-DESCRIPTION:Match #02\nDelhi Capitals Vs Mumbai Indians\nBrabourne – CCI
+DESCRIPTION:Match #02\nDelhi Capitals Vs Mumbai Indians\nBrabourne – CCI\n Visit us at https://anjane.tech
 LOCATION:Brabourne – CCI
 END:VEVENT
 
@@ -52,7 +52,7 @@ UID:03
 DTSTART;TZID=Asia/Calcutta:20220327T193000
 DTEND;TZID=Asia/Calcutta:20220327T193500
 SUMMARY:PBKS vs RCB  #03
-DESCRIPTION:Match #03\nPunjab Kings Vs Royal Challengers Bangalore\nDY Patil Stadium
+DESCRIPTION:Match #03\nPunjab Kings Vs Royal Challengers Bangalore\nDY Patil Stadium\n Visit us at https://anjane.tech
 LOCATION:DY Patil Stadium
 END:VEVENT
 
@@ -62,7 +62,7 @@ UID:04
 DTSTART;TZID=Asia/Calcutta:20220328T193000
 DTEND;TZID=Asia/Calcutta:20220328T193500
 SUMMARY:GT vs LSG  #04
-DESCRIPTION:Match #04\nGujrat Titans Vs Lucknow Super Giants\nWankhede Stadium
+DESCRIPTION:Match #04\nGujrat Titans Vs Lucknow Super Giants\nWankhede Stadium\n Visit us at https://anjane.tech
 LOCATION:Wankhede Stadium
 URL:www.anjanetech.com
 TRANSP:TRANSPARENT
