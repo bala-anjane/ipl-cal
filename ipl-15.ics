@@ -24,7 +24,7 @@ UID:01
 DTSTART;TZID=Asia/Calcutta:20220326T193000
 DTEND;TZID=Asia/Calcutta:20220326T193500
 SUMMARY:CSK vs KKR  #01
-DESCRIPTION:Match #01\nChennai Super Kings Vs Kolkata Knight Riders\nWankhede Stadium\n Visit us at https://anjane.tech
+DESCRIPTION:Match #01\nChennai Super Kings Vs Kolkata Knight Riders\nWankhede Stadium\n Check us out at https://anjane.tech
 LOCATION:Wankhede Stadium
 URL:www.anjanetech.com
 TRANSP:TRANSPARENT
@@ -62,7 +62,7 @@ UID:04
 DTSTART;TZID=Asia/Calcutta:20220328T193000
 DTEND;TZID=Asia/Calcutta:20220328T193500
 SUMMARY:GT vs LSG  #04
-DESCRIPTION:Match #04\nGujrat Titans Vs Lucknow Super Giants\nWankhede Stadium\n Visit us at https://anjane.tech
+DESCRIPTION:Match #04\nGujrat Titans Vs Lucknow Super Giants\nWankhede Stadium\n Check us out at https://anjane.tech
 LOCATION:Wankhede Stadium
 URL:www.anjanetech.com
 TRANSP:TRANSPARENT
@@ -87,7 +87,7 @@ TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Match #05\nSunrisers Hyderabad Vs Rajasthan Royals\nMCA Stadium, Pune\n Visit us at https://anjane.tech
+DESCRIPTION:Match #05\nSunrisers Hyderabad Vs Rajasthan Royals\nMCA Stadium, Pune\n Check us out at https://anjane.tech
 TRIGGER:-PT0M
 END:VALARM
 END:VEVENT
