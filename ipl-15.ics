@@ -87,7 +87,7 @@ TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Match #05\nSunrisers Hyderabad Vs Rajasthan Royals\nMCA Stadium, Pune
+DESCRIPTION:Match #05\nSunrisers Hyderabad Vs Rajasthan Royals\nMCA Stadium, Pune\n Visit us at https://anjane.tech
 TRIGGER:-PT0M
 END:VALARM
 END:VEVENT
